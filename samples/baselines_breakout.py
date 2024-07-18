@@ -2,7 +2,7 @@
 ## Example code: baselines_breakout.py
 ## Author: Allen Y. Yang
 ##
-## (c) Copyright 2023. Intelligent Racing Inc. Not permitted for commercial use
+## (c) Copyright 2023-2024. Intelligent Racing Inc. Not permitted for commercial use
 
 import os
 from stable_baselines3.common.env_util import make_atari_env
